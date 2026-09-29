@@ -1,17 +1,12 @@
 # Amazon Clone — HTML & CSS
 
-A simple Amazon-inspired e-commerce webpage built using HTML and CSS.
-This project was created to practice frontend development and web
-design fundamentals.
+A simple Amazon-inspired e-commerce webpage built using HTML and CSS. This project was created to practice frontend development and web design fundamentals.
 
 ## About the Project
 
-This project recreates the visual layout of an Amazon-style shopping
-website using HTML and CSS.
+This project recreates the visual layout of an Amazon-style shopping website using HTML and CSS.
 
-It includes a navigation bar, search interface, hero section, product
-category cards, and footer. The focus is on webpage structure,
-styling, and layout design.
+It includes a navigation bar, search interface, hero section, product category cards, and footer. The focus is on webpage structure, styling, and layout design.
 
 ## Features
 
@@ -34,7 +29,6 @@ styling, and layout design.
 
 ```text
 Projects_HTML_CSS/
-│
 ├── Amazon clone.html
 ├── amazon.css
 └── README.md
@@ -42,16 +36,10 @@ Projects_HTML_CSS/
 
 ## How to Run
 
-1. Clone or download this repository.
+1. Download or clone this repository.
 2. Open the project folder in Visual Studio Code.
 3. Open `Amazon clone.html` in your web browser.
 4. Explore the webpage.
-
-## Screenshot
-
-A screenshot of the project can be added here to showcase the webpage.
-
-<!-- Add a screenshot after uploading it to the repository. -->
 
 ## What I Learned
 
