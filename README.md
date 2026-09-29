@@ -33,10 +33,45 @@ styling, and layout design.
 ## Project Structure
 
 ```text
-Amazon-Clone/
+Projects_HTML_CSS/
 │
-├── index.html
-├── style.css
-├── images/
-│   └── (Project images and assets)
+├── Amazon clone.html
+├── amazon.css
 └── README.md
+```
+
+## How to Run
+
+1. Clone or download this repository.
+2. Open the project folder in Visual Studio Code.
+3. Open `Amazon clone.html` in your web browser.
+4. Explore the webpage.
+
+## Screenshot
+
+A screenshot of the project can be added here to showcase the webpage.
+
+<!-- Add a screenshot after uploading it to the repository. -->
+
+## What I Learned
+
+- Structuring webpages using HTML.
+- Styling elements using CSS.
+- Creating layouts using CSS Flexbox.
+- Working with background images and hover effects.
+- Organizing frontend project files.
+
+## Limitations
+
+This is a static frontend project.
+
+- Search functionality is not implemented.
+- User authentication is not implemented.
+- Shopping cart and checkout functionality are not implemented.
+- No backend or database is connected.
+
+## Author
+
+**Divya Thota**
+
+GitHub: [Divyaa-04](https://github.com/Divyaa-04)
